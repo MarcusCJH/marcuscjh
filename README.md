@@ -1,32 +1,19 @@
 # Hi, I'm Marcus (marcuscjh)! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building projects that make an impact. Here you'll find a collection of my work and experiments
-
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcuscjh&count_private=true&show_icons=true&theme=default)](https://github.com/marcuscjh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscjh&layout=compact&theme=default)](https://github.com/marcuscjh)
-
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/marcuschanjh)  
-- [Telegram](https://t.me/marcuscjh)  
-- [Personal Website](https://marcuscjh.github.io/)
+I'm a passionate developer with a knack for exploring new technologies and building projects that make an impact. Welcome to my GitHub, where I share my experiments, projects, and my continuous journey in coding.
 
 ---
 
-<!--
-**MarcusCJH/marcuscjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GitHub Stats
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscjh&layout=compact&theme=default)](https://github.com/marcuscjh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuschanjh)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marcuscjh)  [![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://marcuscjh.github.io/)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
