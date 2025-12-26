@@ -59,7 +59,7 @@ Exploring **agentic AI** for backlog hygiene + serverless developer experience.
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscjh&layout=compact&theme=default&hide_border=true)](https://github.com/marcuscjh)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcuscjh)](https://github.com/marcuscjh)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcuscjh)](https://git.io/streak-stats)
 </div>
 
 ---
