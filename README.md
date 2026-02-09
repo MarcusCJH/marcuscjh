@@ -19,8 +19,6 @@ Experienced IT Professional with **5+ years** delivering scalable cloud-native s
 
 ---
 
-
-
 ## 🏆 Certifications
 
 <div align="center">
@@ -36,7 +34,6 @@ Experienced IT Professional with **5+ years** delivering scalable cloud-native s
 </div>
 
 ---
-
 
 ## 🌱 Currently
 
@@ -58,8 +55,10 @@ Exploring **agentic AI** for backlog hygiene + serverless developer experience.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscjh&layout=compact&theme=default&hide_border=true)](https://github.com/marcuscjh)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcuscjh)](https://git.io/streak-stats)
+<!-- Faster, more reliable than github-readme-stats.vercel.app (avoids rate limits) -->
+[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=marcuscjh&show_icons=true&theme=default&hide_border=true)](https://github.com/marcuscjh)
+[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=marcuscjh&layout=compact&theme=default&hide_border=true)](https://github.com/marcuscjh)
+
 </div>
 
 ---
