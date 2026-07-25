@@ -1,61 +1,63 @@
 <div align="center">
 
-# Hey, I'm Marcus 👋
+# Marcus Chan
 
-**Backend / Full-Stack Engineer & Cloud Architect** from Singapore  
-Building **AWS serverless backends, APIs, and internal tools**
+### Lead Full Stack Engineer & Cloud Architect · Singapore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuschanjh)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marcuscjh)
-[![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://marcuscjh.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://marcuscjh.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Experienced IT Professional with **5+ years** delivering scalable cloud-native solutions at Accenture. Specialized in AWS serverless architecture, DevOps automation, and full-stack development with expertise across cloud technologies, data analytics, and enterprise application development.
+> Lead Full Stack Engineer and Cloud Architect with 10+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and travel. Proven in leading engineering teams, driving technical strategy, and translating complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation — spanning serverless architecture, DevOps, and enterprise application development.
+>
+> **Currently:** Custom Software Engineering Associate Manager @ Accenture
 
 ---
 
-## 🏆 Certifications
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logoColor=white&logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&logo=openjdk) ![C#](https://img.shields.io/badge/C#-239120?style=flat-square&logoColor=white&logo=csharp) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white&logo=postgresql) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logoColor=white&logo=terraform) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white&logo=git) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logoColor=white&logo=linux)
+
+---
+
+## Certifications · 12
+
+**Amazon Web Services** &nbsp; ![AWS: Developer – Associate](https://img.shields.io/badge/AWS-Developer_--_Associate-FF9900?style=flat-square&logoColor=white&logo=amazon-aws) ![AWS: AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logoColor=white&logo=amazon-aws) ![AWS: Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logoColor=white&logo=amazon-aws)  
+**Google Cloud** &nbsp; ![GCP: Cloud Digital Leader](https://img.shields.io/badge/GCP-Cloud_Digital_Leader-4285F4?style=flat-square&logoColor=white&logo=google-cloud)  
+**HashiCorp** &nbsp; ![HashiCorp: Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=flat-square&logoColor=white&logo=terraform)  
+**Databricks** &nbsp; ![Databricks: Data Engineer Associate](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=flat-square&logoColor=white&logo=databricks)  
+**Scrum Alliance** &nbsp; ![Scrum Alliance: CSPO®](https://img.shields.io/badge/Scrum_Alliance-CSPO%C2%AE-009FDA?style=flat-square&logoColor=white) ![Scrum Alliance: CSM®](https://img.shields.io/badge/Scrum_Alliance-CSM%C2%AE-009FDA?style=flat-square&logoColor=white)  
+**Alibaba Cloud** &nbsp; ![Alibaba Cloud: Professional - Cloud Computing](https://img.shields.io/badge/Alibaba_Cloud-Professional_--_Cloud_Computing-FF6A00?style=flat-square&logoColor=white&logo=alibabacloud) ![Alibaba Cloud: Associate - Cloud Computing](https://img.shields.io/badge/Alibaba_Cloud-Associate_--_Cloud_Computing-FF6A00?style=flat-square&logoColor=white&logo=alibabacloud)  
+**Axelos** &nbsp; ![Axelos: ITIL® Foundation](https://img.shields.io/badge/Axelos-ITIL%C2%AE_Foundation-6E1C7A?style=flat-square&logoColor=white)  
+**Pegasystems** &nbsp; ![Pega: CSA](https://img.shields.io/badge/Pega-CSA-FF0000?style=flat-square&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| **[Splitsia — Scan. Review. Split fairly.](https://marcuscjh.com/splitsia/)** | `TypeScript · Vite · PWA · OCR` | [🌐 Try it Live](https://marcuscjh.com/splitsia/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/splitsia) |
+| **[SG Invoice](https://marcuscjh.com/invoice-app/)** | `TypeScript · Vite · HTML · CSS` | [🌐 Try it Live](https://marcuscjh.com/invoice-app/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/invoice-app) |
+| **[BouncerBot](https://medium.com/@marcuscjh/i-built-bouncerbot-without-knowing-what-email-validation-even-was-2200cf603aca)** | `FastAPI · Next.js · TypeScript · Ollama` | [📝 Read Development Story](https://medium.com/@marcuscjh/i-built-bouncerbot-without-knowing-what-email-validation-even-was-2200cf603aca) |
+| **[WiFi QR Generator](https://marcuscjh.github.io/wifi-qr/)** | `HTML · CSS · JavaScript` | [🌐 Try it Live](https://marcuscjh.github.io/wifi-qr/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/wifi-qr) |
+| **[Real-Time Incident Response System](https://marcuscjh.medium.com/leveraging-amazon-connect-for-real-time-incident-response-calls-bd3c43440662)** | `Python · AWS · DynamoDB` | [📝 Read Development Story](https://marcuscjh.medium.com/leveraging-amazon-connect-for-real-time-incident-response-calls-bd3c43440662) |
+| **[Endless Jumper Game](https://marcuscjh.medium.com/built-a-game-in-2-hours-with-amazon-q-d02c1da6dd53)** | `Python · Amazon Q` | [📝 Read Development Story](https://marcuscjh.medium.com/built-a-game-in-2-hours-with-amazon-q-d02c1da6dd53)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/amazon-q-pygame) |
+
+<div align="right"><a href="https://marcuscjh.com">View all projects →</a></div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Databricks Data Engineer](https://img.shields.io/badge/Databricks-Data%20Engineer-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![GCP Cloud Digital Leader](https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![CSM](https://img.shields.io/badge/Scrum%20Alliance-CSM%20%7C%20CSPO-009FDA?style=flat-square)
-![Pega CSA](https://img.shields.io/badge/Pegasystems-CSA-FF0000?style=flat-square)
-
-</div>
-
----
-
-## 🌱 Currently
-
-Exploring **agentic AI** for backlog hygiene + serverless developer experience.
-
----
-
-## 🚀 Featured Projects
-
-- **[Amazon Connect Incident Response](https://marcuscjh.medium.com/leveraging-amazon-connect-for-real-time-incident-response-calls-bd3c43440662)** - Automated incident response system with Lambda orchestration
-- **[Endless Jumper](https://github.com/MarcusCJH/amazon-q-pygame)** - Game built in 2 hours using Amazon Q AI
-- **[Portfolio Website](https://marcuscjh.github.io)** - Dynamic portfolio with TypeScript, Vite, and modern web tech
-
-*View more projects on my [portfolio](https://marcuscjh.github.io)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Faster, more reliable than github-readme-stats.vercel.app (avoids rate limits) -->
 [![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=marcuscjh&show_icons=true&theme=default&hide_border=true)](https://github.com/marcuscjh)
 [![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=marcuscjh&layout=compact&theme=default&hide_border=true)](https://github.com/marcuscjh)
 
@@ -64,7 +66,5 @@ Exploring **agentic AI** for backlog hygiene + serverless developer experience.
 ---
 
 <div align="center">
-
-**Let's connect and build something amazing together!** 🚀
-
+<sub>Updated automatically from <a href="https://marcuscjh.com">marcuscjh.com</a></sub>
 </div>
