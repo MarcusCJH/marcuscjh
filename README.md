@@ -15,7 +15,7 @@
 
 ## About Me
 
-> Lead Full Stack Engineer and Cloud Architect with 10+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and travel. Proven in leading engineering teams, driving technical strategy, and translating complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation — spanning serverless architecture, DevOps, and enterprise application development.
+> Lead Full Stack Engineer and Cloud Architect with 10+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and aviation. Proven in leading engineering teams, driving technical strategy, and translating complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation — spanning serverless architecture, DevOps, and enterprise application development.
 >
 > **Currently:** Lead Full Stack Engineer & Cloud Architect @ Accenture
 
