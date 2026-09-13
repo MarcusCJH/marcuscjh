@@ -44,7 +44,7 @@
 
 | Project | Stack | Links |
 |---------|-------|-------|
-| **[Splitsia](https://marcuscjh.com/splitsia/)** | `TypeScript · Vite · PWA · OCR` | [🌐 Try it Live](https://marcuscjh.com/splitsia/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/splitsia) |
+| **[SplitLeh](https://marcuscjh.com/splitleh/)** | `TypeScript · Vite · PWA · OCR` | [🌐 Try it Live](https://marcuscjh.com/splitleh/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/splitleh) |
 | **[SG Invoice](https://marcuscjh.com/invoice-app/)** | `TypeScript · Vite · HTML · CSS` | [🌐 Try it Live](https://marcuscjh.com/invoice-app/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/invoice-app) |
 | **[BouncerBot](https://medium.com/@marcuscjh/i-built-bouncerbot-without-knowing-what-email-validation-even-was-2200cf603aca)** | `FastAPI · Next.js · TypeScript · Ollama` | [📝 Read Development Story](https://medium.com/@marcuscjh/i-built-bouncerbot-without-knowing-what-email-validation-even-was-2200cf603aca) |
 | **[WiFi QR Generator](https://marcuscjh.github.io/wifi-qr/)** | `HTML · CSS · JavaScript` | [🌐 Try it Live](https://marcuscjh.github.io/wifi-qr/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/wifi-qr) |
