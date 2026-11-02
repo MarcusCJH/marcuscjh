@@ -15,7 +15,7 @@
 
 ## About Me
 
-> Lead Full Stack Engineer and Cloud Architect with 10+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and aviation. Proven in leading engineering teams, driving technical strategy, and translating complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation — spanning serverless architecture, DevOps, and enterprise application development.
+> Lead Full Stack Engineer and Cloud Architect with 8+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and aviation. Proven in leading engineering teams, driving technical strategy, and translating complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation — spanning serverless architecture, DevOps, and enterprise application development.
 >
 > **Currently:** Lead Full Stack Engineer & Cloud Architect @ Accenture
 
@@ -23,7 +23,7 @@
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logoColor=%23F7DF1E&logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&logo=openjdk) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?style=flat-square&logoColor=white&logo=cshrp) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white&logo=postgresql) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logoColor=white&logo=terraform) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logoColor=white&logo=git) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logoColor=black&logo=linux)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white&logo=postgresql) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&logo=openjdk) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logoColor=white&logo=terraform) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logoColor=white&logo=databricks)
 
 ---
 
