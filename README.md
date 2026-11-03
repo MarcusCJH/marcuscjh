@@ -15,7 +15,7 @@
 
 ## About Me
 
-> Lead Full Stack Engineer and Cloud Architect with 8+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and aviation. Proven in leading engineering teams, driving technical strategy, and translating complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation — spanning serverless architecture, DevOps, and enterprise application development.
+> Lead Full Stack Engineer and Cloud Architect with 8+ years delivering scalable, cloud-native solutions across financial services, public sector, healthcare, and aviation. I lead engineering teams, set technical direction, and turn complex business requirements into production-ready systems. Certified across AWS, Alibaba Cloud, Google Cloud, data engineering, and infrastructure automation, with hands-on experience in serverless architecture, DevOps, and enterprise application development.
 >
 > **Currently:** Lead Full Stack Engineer & Cloud Architect @ Accenture
 
@@ -44,7 +44,7 @@
 
 | Project | Stack | Links |
 |---------|-------|-------|
-| **[SplitLeh](https://marcuscjh.com/splitleh/)** | `TypeScript · Vite · PWA · OCR` | [🌐 Try it Live](https://marcuscjh.com/splitleh/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/splitleh) |
+| **[SplitLeh](https://marcuscjh.com/splitleh/)** | `TypeScript · Vite · PWA · OCR` | [🌐 Try it Live](https://marcuscjh.com/splitleh/)&nbsp;&nbsp;[📝 Read Development Story](https://medium.com/@marcuscjh/i-built-a-receipt-splitter-because-i-was-too-lazy-to-do-the-math-myself-159677f6b566)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/splitleh) |
 | **[SG Invoice](https://marcuscjh.com/invoice-app/)** | `TypeScript · Vite · HTML · CSS` | [🌐 Try it Live](https://marcuscjh.com/invoice-app/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/invoice-app) |
 | **[BouncerBot](https://medium.com/@marcuscjh/i-built-bouncerbot-without-knowing-what-email-validation-even-was-2200cf603aca)** | `FastAPI · Next.js · TypeScript · Ollama` | [📝 Read Development Story](https://medium.com/@marcuscjh/i-built-bouncerbot-without-knowing-what-email-validation-even-was-2200cf603aca) |
 | **[WiFi QR Generator](https://marcuscjh.github.io/wifi-qr/)** | `HTML · CSS · JavaScript` | [🌐 Try it Live](https://marcuscjh.github.io/wifi-qr/)&nbsp;&nbsp;[💻 View Source Code](https://github.com/MarcusCJH/wifi-qr) |
