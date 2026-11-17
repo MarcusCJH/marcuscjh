@@ -21,9 +21,18 @@
 
 ---
 
-## Tech Stack
+## Focus Areas
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white&logo=postgresql) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&logo=openjdk) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logoColor=white&logo=terraform) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logoColor=white&logo=databricks)
+| | |
+|---|---|
+| **Languages** | TypeScript · Python · SQL · Java |
+| **Full Stack** | Next.js · Vite / PWA · Django · FastAPI · GraphQL |
+| **Cloud** | AWS Serverless (Lambda, AppSync, DynamoDB) · AWS CDK · Amplify · Event-driven & Observability (SNS, CloudWatch) · Alibaba Cloud Data & BI (DataWorks, Dataphin, QuickBI, DataV) |
+| **Platform & DevOps** | Terraform · Docker · CI/CD & Automation · Databricks |
+| **AI & Data** | Amazon Bedrock · SageMaker · LLM Document Classification · Enterprise Chatbots · Local LLMs (Ollama) |
+| **Leadership** | Technical Leadership · Mentoring & Code Review · Agile / Scrum (CSM, CSPO) · Jira |
+
+<sub>What I'm working with right now, not a ceiling. Picking up new stacks is the part of the job I enjoy most.</sub>
 
 ---
 
