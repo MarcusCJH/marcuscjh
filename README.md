@@ -23,14 +23,12 @@
 
 ## Focus Areas
 
-| | |
-|---|---|
-| **Languages** | TypeScript · Python · SQL · Java |
-| **Full Stack** | Next.js · Vite / PWA · Django · FastAPI · GraphQL |
-| **Cloud** | AWS Serverless (Lambda, AppSync, DynamoDB) · AWS CDK · Amplify · Event-driven & Observability (SNS, CloudWatch) · Alibaba Cloud Data & BI (DataWorks, Dataphin, QuickBI, DataV) |
-| **Platform & DevOps** | Terraform · Docker · CI/CD & Automation · Databricks |
-| **AI & Data** | Amazon Bedrock · SageMaker · LLM Document Classification · Enterprise Chatbots · Local LLMs (Ollama) |
-| **Leadership** | Technical Leadership · Mentoring & Code Review · Agile / Scrum (CSM, CSPO) · Jira |
+**Languages** &nbsp; TypeScript · Python · SQL · Java  
+**Full Stack** &nbsp; Next.js · Vite / PWA · Django · FastAPI · GraphQL  
+**Cloud** &nbsp; AWS Serverless (Lambda, AppSync, DynamoDB) · AWS CDK · Amplify · Event-driven & Observability (SNS, CloudWatch) · Alibaba Cloud Data & BI (DataWorks, Dataphin, QuickBI, DataV)  
+**Platform & DevOps** &nbsp; Terraform · Docker · CI/CD & Automation · Databricks  
+**AI & Data** &nbsp; Amazon Bedrock · SageMaker · LLM Document Classification · Enterprise Chatbots · Local LLMs (Ollama)  
+**Leadership** &nbsp; Technical Leadership · Mentoring & Code Review · Agile / Scrum (CSM, CSPO) · Jira
 
 <sub>What I'm working with right now, not a ceiling. Picking up new stacks is the part of the job I enjoy most.</sub>
 
