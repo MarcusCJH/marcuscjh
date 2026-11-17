@@ -23,12 +23,12 @@
 
 ## Focus Areas
 
-**Languages** &nbsp; TypeScript · Python · SQL · Java  
-**Full Stack** &nbsp; Next.js · Vite / PWA · Django · FastAPI · GraphQL  
-**Cloud** &nbsp; AWS Serverless (Lambda, AppSync, DynamoDB) · AWS CDK · Amplify · Event-driven & Observability (SNS, CloudWatch) · Alibaba Cloud Data & BI (DataWorks, Dataphin, QuickBI, DataV)  
-**Platform & DevOps** &nbsp; Terraform · Docker · CI/CD & Automation · Databricks  
-**AI & Data** &nbsp; Amazon Bedrock · SageMaker · LLM Document Classification · Enterprise Chatbots · Local LLMs (Ollama)  
-**Leadership** &nbsp; Technical Leadership · Mentoring & Code Review · Agile / Scrum (CSM, CSPO) · Jira
+**Languages** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-3178C6?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3178C6?style=flat-square&logoColor=white) ![Java](https://img.shields.io/badge/Java-3178C6?style=flat-square&logoColor=white)  
+**Full Stack** &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-009485?style=flat-square&logoColor=white) ![Vite / PWA](https://img.shields.io/badge/Vite_%2F_PWA-009485?style=flat-square&logoColor=white) ![Django](https://img.shields.io/badge/Django-009485?style=flat-square&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-009485?style=flat-square&logoColor=white)  
+**Cloud** &nbsp; ![AWS Serverless](https://img.shields.io/badge/AWS_Serverless-FF9900?style=flat-square&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logoColor=white) ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logoColor=white) ![Event-driven & Observability](https://img.shields.io/badge/Event--driven_%26_Observability-FF9900?style=flat-square&logoColor=white) ![Alibaba Cloud Data & BI](https://img.shields.io/badge/Alibaba_Cloud_Data_%26_BI-FF9900?style=flat-square&logoColor=white)  
+**Platform & DevOps** &nbsp; ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-844FBA?style=flat-square&logoColor=white) ![CI/CD & Automation](https://img.shields.io/badge/CI%2FCD_%26_Automation-844FBA?style=flat-square&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-844FBA?style=flat-square&logoColor=white)  
+**AI & Data** &nbsp; ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-D62976?style=flat-square&logoColor=white) ![SageMaker](https://img.shields.io/badge/SageMaker-D62976?style=flat-square&logoColor=white) ![LLM Document Classification](https://img.shields.io/badge/LLM_Document_Classification-D62976?style=flat-square&logoColor=white) ![Enterprise Chatbots](https://img.shields.io/badge/Enterprise_Chatbots-D62976?style=flat-square&logoColor=white) ![Local LLMs](https://img.shields.io/badge/Local_LLMs-D62976?style=flat-square&logoColor=white)  
+**Leadership** &nbsp; ![Technical Leadership](https://img.shields.io/badge/Technical_Leadership-4A5568?style=flat-square&logoColor=white) ![Mentoring & Code Review](https://img.shields.io/badge/Mentoring_%26_Code_Review-4A5568?style=flat-square&logoColor=white) ![Agile / Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-4A5568?style=flat-square&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-4A5568?style=flat-square&logoColor=white)
 
 <sub>What I'm working with right now, not a ceiling. Picking up new stacks is the part of the job I enjoy most.</sub>
 
